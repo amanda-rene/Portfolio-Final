@@ -43,7 +43,7 @@ export const projectsData = [
     title: 'My BJJ Tracker',
     info: 'A workout and training tracking app for Brazilian Jiu-Jitsu practicioners to track and log training, techniques and the dates trained. This data is displayed in multiple easy to read formats to help inspire users to continue training based on seeing their daily progress.',
     info2: 'Built using React, Redux, PostgreSQL, Node.JS, Express, Massive, ChartJS along with other technologies.',
-    url: '',
+    // url: '',
     repo: 'https://github.com/amanda-rene/my-personal-project', // if no repo, the button will not show up
   },
   // {
